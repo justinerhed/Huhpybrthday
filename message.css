@@ -9,14 +9,14 @@
 body {
     background-color: #6499E9;
     color: white;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
+    height: fit-content;
 }
 
 .message {
     font-family: "Poppins", monospace;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 h1 {
