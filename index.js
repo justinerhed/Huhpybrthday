@@ -9,7 +9,7 @@ const noBtnRect = noBtn.getBoundingClientRect();
 
 yesBtn.addEventListener('click', () => {
     question.innerHTML = 'Kaya love kita eh';
-    question.style.fontSize = '40px';
+    question.style.fontSize = '30px';
     yesBtn.style.display = 'none';
     noBtn.style.display = 'none';
     message.style.display = 'block';
