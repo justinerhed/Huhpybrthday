@@ -8,7 +8,7 @@ const wrapperRect = wrapper.getBoundingClientRect();
 const noBtnRect = noBtn.getBoundingClientRect();
 
 yesBtn.addEventListener('click', () => {
-    question.innerHTML = 'love din kita:)';
+    question.innerHTML = 'Kaya love kita eh🙇‍♂️';
     question.style.fontSize = '40px';
     yesBtn.style.display = 'none';
     noBtn.style.display = 'none';
